@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847820670097",
+    "project_id": "reproductor-musical-690cc",
+    "storage_bucket": "reproductor-musical-690cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847820670097:android:2b3bdadd7b578d2352ab30",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847820670097-p24jtubui881v8jadhhcmns5hue5bt6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLD_scbdIaZclQjvgmgOe6qf1GZ_fqFyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847820670097-p24jtubui881v8jadhhcmns5hue5bt6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
